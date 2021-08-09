@@ -1,0 +1,93 @@
+Ktory z tych plazow jest najwiekszy?
+A: Waz boa B: Waran C: Zaba
+c
+Ile trwa ciaza slonia?
+A: 5msc B: 9msc C: Prawie 2 lata
+c
+Do jakich instrumentow zaliczamy organy?
+A: Perkusyjne B: Szarpane C: Dete
+c
+Jak nazywa sie lampka przyscienna z wlacznikiem w scianie?
+A: Zyrandol B: Kinkiet C: Karnisz
+b
+Z ilu krajow sklada sie Wielka Brytania?
+A:3 B:4 C:5
+a
+Co jest stolica Kolumbii?
+A:Warszawa B:Bogota C:Dublin
+b
+Kto pobil rekord bramek Bundesligi?
+A:Lewandowski B:Messi C:Ronaldo
+a
+Jednostka centralna to:
+A:Komputer B:Karta graficzna C:Procesor
+c
+Klawiatura to urzadzenie:
+A:Wejscia B:Wyjscia C:Wejscia i wyjscia
+a
+Najdrozsza kryptowaluta to:
+A:DodgeCoin B:Bitcoin C:Etherum
+b
+Darmowy program graficzny dystybucji Linux'a to:
+A:Paint B:Gimp C:Excel
+b
+Do utworzenia bazy danych uzywamy:
+A:Word B:Access C:Google Chrome
+b
+Wydajnosc w grach zalezy glownie od:
+A:Karty graficznej B:Procesora C:Ramu
+a
+Darmowe oprogramowanie to:
+A:Freeware B:Shareware C:Trail
+a
+Co ile powinnismy zrobic przerwe od komputera?
+A:30 minut B:1 godzina C:Nie trzeba robic przerw
+b
+Jezykiem programowania jest?
+A:Java B:Niemiecki C:Microsoft
+a
+Wirusem dajacym dostep do komputera bez wiedzy uzytkownika jest?
+A:Trojan B:Backdoor C:Malware
+b
+Kto jest producentem procesorow serii Pentium?
+A:IBM B:Apple C:Intel
+c
+Jak nazywa sie proces zmniejszania objetosci danych komputerowych?
+A:Kompresja B:Parmetryzacja C:Repasacja
+a
+Liczby z jakiego zakresu sa uzywane w zapisie IPv4?
+A:0-255 B:0-500 C:0-200
+a
+Kto jest prekursorem rzeczywistosci wirtualnej?
+A:Juliusz Verne B:Myron Krueger C:Palmer Luckey
+b
+Zmiana systemu binarnego na dziesietny to:
+A:Koniunkcja B:Konwencja C:Konwersja
+c
+Jeden bajt to:
+A:8 Bitow B:4 Bity C:16 Bitow
+a
+Ile rok ma tygodni?
+A:62 B:49 C:52
+c
+Kto rozpoczyna gre w szachach?
+A:Biale B:Czarne C:Losowo
+a
+Najbogatszym czlowiekiem na swiecie jest:
+A:Elon Musk B:Jeff Bezos C:Bill Gates
+b
+Jaki jest najwiekszy kraj?
+A:Polska B:Francja C:Rosja
+c
+Co bylo pierwsze?
+A:Kura B:Jajko C:Nie wiadomo
+c
+W ilu % czlowiek sklada sie z wody?
+A:60% B:80% C:20%
+a
+Jaki jest najmniejszy kraj na swiecie?
+A:Monako B:Potrugalia C:Watykan
+c
+Co jest ciezsze?
+A:1kg pierzu B:1kg wody C:Waza tyle samo
+c
